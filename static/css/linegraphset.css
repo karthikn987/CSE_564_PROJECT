@@ -1,0 +1,24 @@
+.line {
+  fill: none;
+  stroke: steelblue;
+  stroke-width: 3.5px;
+}
+
+
+ .bar.axis path,
+ .bar.axis line {
+    fill: none;
+    stroke: #000;
+  }
+
+
+
+
+
+.bar .tick text{
+  font-size: 10px
+}
+
+#linegraph{
+  background-color: lightgray
+}
